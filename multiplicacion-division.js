@@ -20,3 +20,5 @@ console.log(num1 + " * "+ num2 + " = "+ resMultiplicacion);
 //Función para dividir
 let resDivision = division(num1, num2);
 console.log(num1 + " / "+ num2 +" = "+ resDivision);
+
+//Hot Fix hf/Multiplicacion_Division
